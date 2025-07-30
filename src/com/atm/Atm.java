@@ -87,6 +87,8 @@ public class Atm {
 				default:
 					System.out.println("THANK YOU!!!");
 					System.out.println("Hiiii");
+					System.out.println("iuthihgkldg");
+	}
 	}
 					break;
 				}
