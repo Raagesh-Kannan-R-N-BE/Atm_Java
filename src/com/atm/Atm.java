@@ -88,6 +88,14 @@ public class Atm {
 					System.out.println("THANK YOU!!!");
 					System.out.println("Hiiii");
 					System.out.println("iuthihgkldg");
+					System.out.println("Hiiii");
+					System.out.println("Hiiii");
+					System.out.println("Hiiii");
+					System.out.println("Hiiii");
+	}
+	}
+	}
+	  
 	}
 	}
 					break;
